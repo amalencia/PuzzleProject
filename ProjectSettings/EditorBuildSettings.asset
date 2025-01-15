@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/CenterRoom.unity
+    guid: d02c8a7153058e94c93f059262f91873
+  - enabled: 0
+    path: Assets/Scenes/ElectricCircuits.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/MalenciaPuzzle.unity
+    guid: c7cced63e411a0843aae68bc5a542317
+  - enabled: 0
+    path: Assets/Scenes/Ren.unity
+    guid: d466ac6655802014485a43230d796dbd
+  - enabled: 0
+    path: Assets/Scenes/Seabstian's Scene.unity
+    guid: 6ea9005e7a2015949834fe9af2d04ac3
+  - enabled: 0
+    path: Assets/Scenes/Ren 1.unity
+    guid: 26b8e51778f1c15449ba3153e4266b59
+  m_configObjects: {}
